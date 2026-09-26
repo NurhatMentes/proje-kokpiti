@@ -1,0 +1,13 @@
+{
+  "name": "proje-kokpiti",
+  "version": "1.0.0",
+  "description": "Tüm projelerini tek ekrandan takip ettiğin yerel geliştirici paneli",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
